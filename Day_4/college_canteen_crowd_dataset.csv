@@ -1,0 +1,361 @@
+Food_Type,Food_Name,Shift,Is_Event_Day,Is_Weekend,Weather,Has_Discount_or_Offer,Crowd_Present
+Meal,Chole Rice,Evening,No,No,Sunny,No,No
+Snacks,Puff,Evening,Yes,No,Cloudy,No,No
+Meal,Veg Thali,Evening,No,No,Sunny,No,No
+Snacks,Puff,Evening,No,No,Cold/Winter,No,Yes
+Snacks,Puff,Morning,Yes,No,Hot/Summer,No,Yes
+Breakfast,Poha,Morning,No,Yes,Sunny,No,Yes
+Beverage,Lemon Water,Evening,No,No,Cloudy,No,No
+Snacks,Vada Pav,Morning,No,No,Sunny,Yes,Yes
+Beverage,Tea,Evening,No,No,Rainy,No,Yes
+Meal,Chole Rice,Morning,No,No,Rainy,No,No
+Breakfast,Idli,Evening,No,Yes,Rainy,Yes,Yes
+Meal,Veg Thali,Evening,No,Yes,Cloudy,Yes,No
+Meal,Veg Thali,Evening,No,No,Hot/Summer,Yes,Yes
+Beverage,Tea,Morning,No,No,Sunny,No,Yes
+Snacks,Puff,Evening,No,No,Hot/Summer,No,Yes
+Snacks,Puff,Morning,No,No,Hot/Summer,Yes,No
+Snacks,Samosa,Evening,No,Yes,Sunny,No,Yes
+Meal,Dal Khichdi,Morning,No,No,Sunny,No,No
+Meal,Chole Rice,Evening,No,No,Hot/Summer,Yes,Yes
+Snacks,Vada Pav,Morning,No,No,Sunny,Yes,Yes
+Snacks,Samosa,Morning,No,No,Hot/Summer,Yes,No
+Beverage,Cold Coffee,Morning,No,Yes,Rainy,No,No
+Meal,Veg Thali,Evening,No,No,Rainy,No,Yes
+Snacks,Puff,Evening,No,Yes,Rainy,Yes,No
+Breakfast,Upma,Morning,No,No,Sunny,No,Yes
+Meal,Chole Rice,Morning,No,No,Cold/Winter,No,Yes
+Meal,Chole Rice,Evening,No,Yes,Cold/Winter,Yes,Yes
+Snacks,Samosa,Morning,No,No,Hot/Summer,No,No
+Snacks,Puff,Morning,No,No,Cloudy,Yes,No
+Snacks,Sandwich,Morning,No,Yes,Sunny,No,Yes
+Snacks,Sandwich,Morning,No,Yes,Cloudy,No,No
+Meal,Paneer Rice,Morning,Yes,Yes,Cloudy,Yes,Yes
+Snacks,Samosa,Morning,No,No,Sunny,No,No
+Meal,Veg Thali,Evening,Yes,Yes,Cold/Winter,No,Yes
+Meal,Veg Thali,Morning,No,No,Cold/Winter,Yes,Yes
+Meal,Chole Rice,Evening,Yes,Yes,Rainy,No,No
+Meal,Dal Khichdi,Evening,No,No,Sunny,Yes,No
+Beverage,Tea,Evening,No,No,Hot/Summer,No,No
+Breakfast,Idli,Morning,No,No,Cold/Winter,No,Yes
+Snacks,Sandwich,Morning,No,No,Sunny,Yes,Yes
+Breakfast,Upma,Morning,No,Yes,Cold/Winter,Yes,Yes
+Beverage,Coffee,Morning,Yes,Yes,Sunny,Yes,Yes
+Meal,Veg Thali,Evening,No,No,Rainy,No,No
+Meal,Chole Rice,Morning,No,Yes,Cloudy,No,Yes
+Breakfast,Poha,Morning,No,Yes,Cold/Winter,Yes,No
+Snacks,Sandwich,Morning,No,No,Cold/Winter,No,No
+Meal,Paneer Rice,Evening,Yes,No,Rainy,No,No
+Beverage,Tea,Morning,No,Yes,Sunny,No,Yes
+Snacks,Sandwich,Morning,No,No,Cloudy,No,Yes
+Snacks,Sandwich,Evening,No,No,Cloudy,No,No
+Breakfast,Upma,Evening,No,No,Cloudy,No,Yes
+Beverage,Tea,Evening,No,Yes,Hot/Summer,Yes,No
+Meal,Veg Thali,Morning,Yes,No,Hot/Summer,No,No
+Beverage,Cold Coffee,Evening,No,Yes,Hot/Summer,Yes,Yes
+Breakfast,Aloo Paratha,Morning,No,No,Rainy,No,No
+Meal,Paneer Rice,Morning,No,No,Sunny,Yes,Yes
+Meal,Dal Khichdi,Evening,No,No,Cloudy,No,No
+Snacks,Vada Pav,Morning,No,No,Sunny,Yes,No
+Meal,Dal Khichdi,Morning,No,No,Cold/Winter,No,No
+Snacks,Vada Pav,Morning,No,No,Cold/Winter,Yes,No
+Breakfast,Idli,Evening,No,No,Sunny,No,No
+Breakfast,Idli,Morning,No,No,Cloudy,No,No
+Snacks,Vada Pav,Morning,No,No,Cold/Winter,Yes,No
+Beverage,Lemon Water,Evening,No,Yes,Cold/Winter,Yes,Yes
+Beverage,Coffee,Morning,No,No,Hot/Summer,Yes,Yes
+Beverage,Tea,Morning,No,No,Cloudy,No,Yes
+Beverage,Lemon Water,Evening,No,No,Cold/Winter,Yes,Yes
+Beverage,Cold Coffee,Morning,No,No,Hot/Summer,No,Yes
+Breakfast,Poha,Evening,No,No,Cold/Winter,No,Yes
+Breakfast,Upma,Evening,Yes,No,Hot/Summer,Yes,Yes
+Snacks,Vada Pav,Morning,No,No,Hot/Summer,No,Yes
+Beverage,Lemon Water,Evening,No,No,Hot/Summer,No,No
+Snacks,Puff,Morning,No,No,Sunny,Yes,Yes
+Meal,Veg Thali,Morning,No,No,Hot/Summer,No,Yes
+Beverage,Lemon Water,Morning,No,Yes,Rainy,No,Yes
+Meal,Paneer Rice,Evening,No,No,Hot/Summer,No,Yes
+Snacks,Sandwich,Evening,No,No,Cloudy,No,No
+Meal,Veg Thali,Evening,No,No,Rainy,No,No
+Snacks,Vada Pav,Evening,Yes,Yes,Cold/Winter,Yes,Yes
+Snacks,Puff,Morning,Yes,No,Hot/Summer,Yes,No
+Snacks,Vada Pav,Evening,Yes,No,Sunny,No,No
+Snacks,Sandwich,Evening,No,No,Hot/Summer,No,Yes
+Snacks,Sandwich,Evening,No,No,Sunny,Yes,No
+Breakfast,Poha,Evening,No,No,Cold/Winter,Yes,Yes
+Snacks,Sandwich,Morning,No,No,Rainy,Yes,Yes
+Breakfast,Idli,Evening,Yes,Yes,Cloudy,No,Yes
+Breakfast,Poha,Morning,No,No,Hot/Summer,No,No
+Breakfast,Idli,Evening,Yes,No,Rainy,No,No
+Meal,Veg Thali,Morning,No,No,Cold/Winter,No,No
+Beverage,Tea,Morning,No,No,Sunny,No,No
+Snacks,Vada Pav,Evening,No,Yes,Sunny,No,Yes
+Breakfast,Aloo Paratha,Morning,No,Yes,Cloudy,No,No
+Beverage,Tea,Evening,No,No,Cold/Winter,No,No
+Meal,Paneer Rice,Evening,No,Yes,Hot/Summer,No,No
+Snacks,Vada Pav,Evening,No,No,Hot/Summer,No,Yes
+Beverage,Lemon Water,Morning,Yes,No,Rainy,No,Yes
+Breakfast,Upma,Evening,No,Yes,Rainy,No,No
+Snacks,Vada Pav,Evening,Yes,No,Sunny,Yes,Yes
+Meal,Chole Rice,Evening,No,No,Hot/Summer,Yes,Yes
+Beverage,Tea,Evening,No,Yes,Rainy,No,Yes
+Meal,Dal Khichdi,Morning,No,Yes,Cold/Winter,No,No
+Beverage,Cold Coffee,Morning,No,No,Cloudy,No,Yes
+Meal,Chole Rice,Morning,No,No,Cold/Winter,Yes,Yes
+Snacks,Sandwich,Morning,No,No,Hot/Summer,No,Yes
+Breakfast,Upma,Evening,Yes,No,Sunny,Yes,Yes
+Snacks,Puff,Morning,No,No,Rainy,No,No
+Beverage,Lemon Water,Evening,No,Yes,Cloudy,No,Yes
+Snacks,Samosa,Evening,No,No,Cloudy,Yes,Yes
+Snacks,Sandwich,Morning,No,No,Hot/Summer,No,Yes
+Beverage,Coffee,Morning,No,No,Hot/Summer,No,No
+Breakfast,Aloo Paratha,Morning,Yes,No,Cold/Winter,No,Yes
+Meal,Veg Thali,Morning,No,Yes,Sunny,Yes,Yes
+Snacks,Samosa,Morning,No,Yes,Sunny,No,Yes
+Meal,Veg Thali,Evening,No,No,Cloudy,No,Yes
+Snacks,Vada Pav,Morning,Yes,No,Rainy,No,Yes
+Beverage,Coffee,Evening,No,Yes,Cloudy,Yes,Yes
+Snacks,Sandwich,Evening,No,No,Sunny,No,No
+Breakfast,Upma,Morning,Yes,Yes,Cold/Winter,Yes,Yes
+Breakfast,Aloo Paratha,Morning,No,Yes,Rainy,No,No
+Breakfast,Idli,Morning,No,No,Sunny,No,No
+Breakfast,Upma,Morning,No,No,Cold/Winter,No,No
+Beverage,Cold Coffee,Morning,No,No,Sunny,No,Yes
+Beverage,Coffee,Morning,No,Yes,Sunny,No,No
+Breakfast,Poha,Evening,No,No,Hot/Summer,Yes,Yes
+Breakfast,Poha,Evening,No,No,Sunny,Yes,No
+Breakfast,Aloo Paratha,Evening,Yes,No,Cold/Winter,No,No
+Meal,Dal Khichdi,Morning,No,No,Hot/Summer,No,Yes
+Breakfast,Poha,Evening,No,No,Cloudy,No,No
+Beverage,Tea,Morning,No,No,Hot/Summer,No,Yes
+Meal,Chole Rice,Morning,Yes,No,Rainy,No,Yes
+Meal,Chole Rice,Evening,No,Yes,Cold/Winter,Yes,Yes
+Snacks,Vada Pav,Evening,No,Yes,Rainy,No,No
+Snacks,Vada Pav,Morning,No,No,Hot/Summer,No,Yes
+Meal,Veg Thali,Evening,No,No,Sunny,Yes,No
+Breakfast,Upma,Morning,No,No,Cold/Winter,No,Yes
+Beverage,Lemon Water,Evening,No,No,Hot/Summer,No,No
+Snacks,Sandwich,Morning,No,Yes,Sunny,No,Yes
+Snacks,Vada Pav,Evening,No,Yes,Hot/Summer,No,Yes
+Beverage,Lemon Water,Morning,No,No,Cloudy,Yes,Yes
+Breakfast,Aloo Paratha,Evening,No,No,Sunny,Yes,Yes
+Snacks,Samosa,Evening,No,No,Cold/Winter,No,Yes
+Beverage,Cold Coffee,Morning,No,No,Sunny,No,No
+Meal,Veg Thali,Evening,No,Yes,Cold/Winter,No,No
+Breakfast,Aloo Paratha,Morning,No,No,Hot/Summer,No,Yes
+Snacks,Vada Pav,Evening,No,Yes,Cloudy,No,Yes
+Breakfast,Idli,Morning,No,Yes,Hot/Summer,No,No
+Meal,Veg Thali,Morning,No,Yes,Sunny,No,No
+Meal,Veg Thali,Evening,No,No,Rainy,No,No
+Snacks,Sandwich,Morning,No,No,Cold/Winter,Yes,Yes
+Breakfast,Aloo Paratha,Morning,No,Yes,Sunny,No,Yes
+Breakfast,Idli,Evening,No,No,Sunny,No,No
+Snacks,Puff,Evening,No,Yes,Cold/Winter,No,Yes
+Breakfast,Poha,Morning,No,No,Hot/Summer,Yes,No
+Beverage,Tea,Morning,No,Yes,Cold/Winter,Yes,Yes
+Beverage,Tea,Morning,Yes,No,Cloudy,No,Yes
+Breakfast,Aloo Paratha,Evening,No,No,Hot/Summer,No,No
+Meal,Veg Thali,Morning,No,No,Sunny,No,No
+Breakfast,Aloo Paratha,Evening,No,No,Hot/Summer,No,No
+Meal,Dal Khichdi,Morning,No,No,Hot/Summer,No,No
+Meal,Dal Khichdi,Morning,No,No,Rainy,No,Yes
+Snacks,Sandwich,Morning,No,No,Sunny,No,Yes
+Meal,Chole Rice,Evening,No,Yes,Hot/Summer,Yes,Yes
+Snacks,Samosa,Morning,No,No,Sunny,No,No
+Snacks,Samosa,Evening,No,Yes,Hot/Summer,No,No
+Snacks,Puff,Morning,Yes,No,Cold/Winter,No,Yes
+Meal,Chole Rice,Evening,No,No,Rainy,No,No
+Beverage,Tea,Morning,No,No,Cold/Winter,No,No
+Breakfast,Upma,Evening,No,No,Rainy,Yes,No
+Snacks,Samosa,Morning,No,No,Sunny,No,No
+Snacks,Samosa,Morning,Yes,No,Hot/Summer,No,Yes
+Meal,Paneer Rice,Evening,No,No,Sunny,Yes,Yes
+Breakfast,Idli,Evening,No,No,Sunny,Yes,No
+Snacks,Puff,Morning,No,Yes,Cold/Winter,Yes,Yes
+Beverage,Cold Coffee,Evening,No,No,Hot/Summer,No,No
+Breakfast,Idli,Morning,No,No,Cloudy,No,Yes
+Breakfast,Idli,Morning,No,No,Hot/Summer,No,No
+Snacks,Vada Pav,Morning,No,No,Rainy,No,Yes
+Snacks,Sandwich,Evening,Yes,Yes,Rainy,Yes,Yes
+Breakfast,Idli,Morning,No,Yes,Hot/Summer,No,Yes
+Snacks,Vada Pav,Morning,No,No,Rainy,No,Yes
+Meal,Veg Thali,Morning,No,No,Rainy,No,No
+Meal,Dal Khichdi,Morning,No,Yes,Hot/Summer,Yes,Yes
+Breakfast,Aloo Paratha,Morning,No,No,Cold/Winter,Yes,No
+Breakfast,Aloo Paratha,Morning,No,No,Cold/Winter,No,Yes
+Snacks,Puff,Morning,No,No,Rainy,No,No
+Meal,Chole Rice,Evening,Yes,Yes,Hot/Summer,No,Yes
+Snacks,Samosa,Morning,No,No,Cloudy,Yes,Yes
+Beverage,Tea,Morning,No,No,Sunny,Yes,Yes
+Beverage,Tea,Evening,Yes,No,Rainy,No,No
+Meal,Chole Rice,Morning,No,No,Sunny,No,Yes
+Snacks,Vada Pav,Morning,No,Yes,Sunny,No,Yes
+Breakfast,Upma,Morning,Yes,No,Cloudy,No,Yes
+Breakfast,Poha,Evening,Yes,Yes,Sunny,No,Yes
+Beverage,Cold Coffee,Evening,No,No,Rainy,No,Yes
+Breakfast,Poha,Morning,No,No,Hot/Summer,Yes,No
+Snacks,Sandwich,Morning,No,No,Cloudy,No,No
+Meal,Chole Rice,Morning,No,Yes,Cold/Winter,No,Yes
+Snacks,Sandwich,Morning,No,No,Cold/Winter,No,Yes
+Snacks,Samosa,Morning,No,No,Hot/Summer,No,Yes
+Snacks,Puff,Morning,No,Yes,Sunny,No,Yes
+Beverage,Tea,Morning,No,Yes,Cold/Winter,No,Yes
+Meal,Paneer Rice,Evening,Yes,No,Cloudy,No,No
+Meal,Paneer Rice,Morning,No,No,Sunny,No,No
+Breakfast,Poha,Morning,No,Yes,Hot/Summer,No,No
+Beverage,Coffee,Morning,No,Yes,Hot/Summer,No,Yes
+Meal,Paneer Rice,Evening,No,No,Sunny,No,No
+Breakfast,Idli,Morning,No,No,Rainy,No,No
+Breakfast,Idli,Morning,No,No,Sunny,No,No
+Meal,Dal Khichdi,Morning,No,Yes,Rainy,No,No
+Snacks,Samosa,Morning,No,No,Hot/Summer,Yes,Yes
+Beverage,Cold Coffee,Morning,Yes,Yes,Cloudy,Yes,No
+Breakfast,Upma,Morning,No,No,Sunny,No,No
+Snacks,Sandwich,Evening,No,Yes,Rainy,No,No
+Snacks,Vada Pav,Morning,No,No,Cold/Winter,Yes,No
+Beverage,Cold Coffee,Evening,Yes,No,Sunny,No,No
+Breakfast,Idli,Evening,No,No,Sunny,No,Yes
+Meal,Veg Thali,Morning,No,Yes,Cold/Winter,No,No
+Snacks,Samosa,Evening,No,No,Sunny,No,No
+Beverage,Lemon Water,Evening,No,No,Rainy,No,No
+Beverage,Cold Coffee,Morning,No,Yes,Sunny,No,Yes
+Beverage,Coffee,Evening,Yes,Yes,Sunny,No,Yes
+Meal,Paneer Rice,Morning,No,No,Cloudy,Yes,Yes
+Breakfast,Aloo Paratha,Morning,No,No,Rainy,No,Yes
+Breakfast,Upma,Evening,No,No,Cold/Winter,No,Yes
+Snacks,Vada Pav,Morning,No,No,Hot/Summer,No,Yes
+Snacks,Puff,Morning,No,No,Rainy,Yes,No
+Meal,Dal Khichdi,Morning,No,Yes,Rainy,No,No
+Beverage,Cold Coffee,Morning,No,No,Rainy,No,Yes
+Breakfast,Upma,Evening,No,Yes,Cold/Winter,No,No
+Breakfast,Upma,Morning,Yes,No,Hot/Summer,No,Yes
+Breakfast,Upma,Evening,No,No,Hot/Summer,No,No
+Beverage,Coffee,Morning,No,No,Rainy,No,No
+Meal,Paneer Rice,Morning,Yes,Yes,Hot/Summer,No,No
+Meal,Dal Khichdi,Morning,Yes,No,Sunny,Yes,Yes
+Breakfast,Upma,Morning,No,No,Sunny,No,No
+Beverage,Cold Coffee,Morning,No,No,Sunny,No,No
+Snacks,Vada Pav,Morning,No,No,Hot/Summer,No,No
+Snacks,Puff,Morning,No,Yes,Rainy,No,Yes
+Breakfast,Aloo Paratha,Evening,No,Yes,Rainy,No,No
+Snacks,Sandwich,Morning,No,No,Rainy,No,No
+Snacks,Puff,Evening,No,No,Hot/Summer,No,Yes
+Meal,Paneer Rice,Morning,No,No,Rainy,No,No
+Beverage,Lemon Water,Evening,No,No,Cold/Winter,No,No
+Breakfast,Idli,Evening,No,No,Cloudy,No,No
+Beverage,Lemon Water,Morning,No,Yes,Sunny,Yes,No
+Meal,Veg Thali,Morning,No,No,Sunny,Yes,No
+Beverage,Cold Coffee,Morning,Yes,No,Hot/Summer,Yes,Yes
+Beverage,Cold Coffee,Evening,No,No,Rainy,Yes,No
+Meal,Paneer Rice,Evening,No,Yes,Sunny,No,No
+Snacks,Vada Pav,Morning,No,No,Hot/Summer,Yes,Yes
+Breakfast,Aloo Paratha,Evening,No,Yes,Rainy,No,No
+Snacks,Sandwich,Evening,No,No,Rainy,No,No
+Beverage,Lemon Water,Morning,No,Yes,Rainy,Yes,Yes
+Meal,Dal Khichdi,Morning,No,No,Cold/Winter,No,Yes
+Breakfast,Idli,Morning,Yes,No,Rainy,Yes,No
+Snacks,Samosa,Morning,Yes,Yes,Hot/Summer,No,Yes
+Meal,Paneer Rice,Evening,No,Yes,Sunny,No,Yes
+Beverage,Coffee,Evening,No,Yes,Hot/Summer,No,No
+Breakfast,Poha,Morning,No,No,Cold/Winter,No,Yes
+Beverage,Cold Coffee,Morning,No,No,Rainy,No,Yes
+Beverage,Lemon Water,Evening,No,No,Hot/Summer,No,Yes
+Beverage,Cold Coffee,Evening,No,No,Cold/Winter,No,Yes
+Meal,Chole Rice,Evening,No,Yes,Rainy,No,Yes
+Snacks,Puff,Evening,No,No,Cold/Winter,No,No
+Breakfast,Upma,Morning,No,No,Sunny,Yes,No
+Meal,Paneer Rice,Evening,No,Yes,Cloudy,No,Yes
+Snacks,Vada Pav,Morning,Yes,No,Cloudy,No,No
+Beverage,Lemon Water,Evening,No,No,Hot/Summer,Yes,Yes
+Snacks,Sandwich,Morning,No,No,Hot/Summer,No,Yes
+Beverage,Lemon Water,Morning,No,Yes,Cold/Winter,No,Yes
+Breakfast,Aloo Paratha,Evening,No,No,Cold/Winter,No,Yes
+Breakfast,Aloo Paratha,Morning,Yes,Yes,Sunny,No,Yes
+Meal,Veg Thali,Morning,No,No,Hot/Summer,No,No
+Beverage,Coffee,Morning,No,No,Cloudy,No,Yes
+Beverage,Tea,Evening,Yes,Yes,Cold/Winter,No,No
+Snacks,Samosa,Evening,Yes,No,Cloudy,Yes,Yes
+Breakfast,Idli,Evening,No,No,Rainy,No,No
+Snacks,Samosa,Evening,Yes,No,Hot/Summer,No,Yes
+Breakfast,Poha,Morning,Yes,Yes,Rainy,No,Yes
+Snacks,Vada Pav,Evening,No,No,Rainy,No,No
+Beverage,Cold Coffee,Evening,No,No,Hot/Summer,Yes,Yes
+Snacks,Puff,Morning,No,No,Rainy,No,No
+Snacks,Vada Pav,Morning,Yes,Yes,Rainy,No,No
+Breakfast,Upma,Morning,No,Yes,Cold/Winter,Yes,Yes
+Snacks,Vada Pav,Morning,No,No,Cloudy,No,Yes
+Meal,Chole Rice,Evening,No,No,Cloudy,Yes,Yes
+Meal,Chole Rice,Morning,No,No,Rainy,No,No
+Meal,Paneer Rice,Evening,No,No,Cold/Winter,No,No
+Snacks,Puff,Evening,No,No,Cloudy,No,No
+Beverage,Lemon Water,Evening,No,No,Rainy,No,No
+Meal,Veg Thali,Morning,No,No,Rainy,Yes,No
+Breakfast,Aloo Paratha,Evening,Yes,No,Sunny,No,Yes
+Breakfast,Poha,Morning,No,Yes,Cold/Winter,Yes,Yes
+Breakfast,Poha,Morning,No,Yes,Hot/Summer,No,Yes
+Meal,Paneer Rice,Morning,No,Yes,Sunny,No,No
+Beverage,Cold Coffee,Evening,No,No,Cloudy,No,Yes
+Meal,Dal Khichdi,Morning,No,No,Sunny,No,No
+Breakfast,Poha,Evening,No,No,Hot/Summer,Yes,Yes
+Meal,Dal Khichdi,Evening,Yes,Yes,Rainy,No,Yes
+Breakfast,Upma,Evening,No,Yes,Cold/Winter,Yes,No
+Meal,Veg Thali,Evening,No,No,Cold/Winter,No,No
+Breakfast,Poha,Morning,No,No,Hot/Summer,No,No
+Meal,Chole Rice,Morning,Yes,No,Cold/Winter,No,Yes
+Meal,Dal Khichdi,Morning,No,No,Cloudy,Yes,Yes
+Meal,Paneer Rice,Morning,No,Yes,Cold/Winter,No,No
+Beverage,Lemon Water,Morning,No,No,Cloudy,No,No
+Snacks,Puff,Morning,No,No,Sunny,No,No
+Breakfast,Idli,Morning,No,No,Rainy,No,No
+Snacks,Samosa,Evening,Yes,No,Rainy,Yes,Yes
+Meal,Chole Rice,Evening,Yes,No,Sunny,No,Yes
+Snacks,Samosa,Morning,Yes,No,Cloudy,No,Yes
+Snacks,Samosa,Morning,No,No,Cloudy,No,Yes
+Breakfast,Upma,Evening,Yes,No,Cloudy,No,Yes
+Meal,Paneer Rice,Evening,No,Yes,Hot/Summer,No,Yes
+Meal,Veg Thali,Evening,No,No,Sunny,No,No
+Meal,Chole Rice,Morning,No,No,Sunny,No,No
+Breakfast,Poha,Morning,No,No,Sunny,Yes,No
+Snacks,Puff,Morning,No,Yes,Rainy,No,No
+Beverage,Lemon Water,Evening,No,No,Rainy,Yes,No
+Snacks,Samosa,Morning,No,No,Sunny,No,Yes
+Meal,Paneer Rice,Morning,No,Yes,Hot/Summer,Yes,Yes
+Breakfast,Upma,Morning,No,No,Cloudy,No,No
+Breakfast,Poha,Morning,No,Yes,Rainy,Yes,Yes
+Beverage,Cold Coffee,Evening,Yes,No,Cold/Winter,No,No
+Meal,Chole Rice,Evening,No,Yes,Rainy,No,Yes
+Beverage,Lemon Water,Evening,Yes,No,Cloudy,Yes,Yes
+Snacks,Sandwich,Morning,Yes,Yes,Sunny,No,Yes
+Snacks,Samosa,Morning,No,Yes,Sunny,Yes,Yes
+Snacks,Sandwich,Evening,No,No,Cloudy,No,No
+Beverage,Cold Coffee,Evening,No,No,Hot/Summer,No,Yes
+Snacks,Puff,Evening,No,No,Sunny,No,Yes
+Breakfast,Idli,Evening,No,No,Cold/Winter,Yes,Yes
+Beverage,Coffee,Morning,No,Yes,Cloudy,No,No
+Breakfast,Poha,Morning,No,No,Cloudy,No,Yes
+Snacks,Sandwich,Morning,Yes,No,Rainy,No,No
+Meal,Veg Thali,Morning,No,No,Cold/Winter,No,Yes
+Meal,Veg Thali,Morning,No,No,Cloudy,No,Yes
+Breakfast,Aloo Paratha,Evening,No,Yes,Hot/Summer,No,Yes
+Snacks,Samosa,Morning,No,Yes,Cold/Winter,No,Yes
+Snacks,Samosa,Morning,No,No,Rainy,Yes,Yes
+Beverage,Tea,Evening,No,No,Cold/Winter,Yes,Yes
+Snacks,Puff,Evening,No,No,Cloudy,No,Yes
+Meal,Veg Thali,Morning,No,No,Sunny,Yes,No
+Beverage,Cold Coffee,Morning,No,Yes,Cold/Winter,No,No
+Beverage,Coffee,Morning,No,No,Cloudy,Yes,Yes
+Snacks,Sandwich,Morning,No,Yes,Cloudy,No,Yes
+Meal,Dal Khichdi,Morning,No,No,Hot/Summer,No,No
+Meal,Veg Thali,Evening,No,Yes,Rainy,No,No
+Breakfast,Poha,Morning,No,Yes,Hot/Summer,No,No
+Breakfast,Idli,Evening,No,No,Hot/Summer,No,No
+Breakfast,Idli,Morning,No,No,Hot/Summer,No,Yes
+Meal,Veg Thali,Morning,No,Yes,Sunny,No,No
+Snacks,Samosa,Morning,No,No,Hot/Summer,No,Yes
+Snacks,Samosa,Morning,No,Yes,Sunny,No,No
+Breakfast,Upma,Evening,No,No,Cloudy,No,No
+Snacks,Puff,Evening,No,No,Sunny,No,Yes
+Breakfast,Aloo Paratha,Morning,Yes,No,Rainy,No,Yes
+Snacks,Samosa,Morning,No,Yes,Cloudy,No,Yes
+Breakfast,Aloo Paratha,Morning,No,No,Cloudy,No,Yes
+Meal,Paneer Rice,Morning,No,No,Cloudy,No,Yes
